@@ -1,5 +1,4 @@
 
-#quit = 0
 while quit != "q":
 
     import random
